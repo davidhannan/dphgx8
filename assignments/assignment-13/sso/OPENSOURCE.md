@@ -1,0 +1,1 @@
+It is interesting to see all of the different types of motivators for open source projects. I hadn't previously thought specificly about why people would choose to work on open source projects but I now understand that there many valid reasons for doing so, as well as the benefits of doing so.
