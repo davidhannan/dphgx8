@@ -1,0 +1,1 @@
+I started out with this assignment on Windows, but found it much easier to complete on Linux. Once I was on Linux, I simply created the directory, set up the OAuth credentials,  and then ran the commands necessary to get the example files working and it worked right away.
